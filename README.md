@@ -10,7 +10,7 @@ An console application that beeps after a specified amount of time.
 You will need a good IDE, preferably Visual Studio 2013 or the preceeding versions for building the app.
 
 ```
-[Visual Studio 2015](https://www.visualstudio.com/post-download-vs/?sku=community&clcid=0x409&downloadrename=true) 
+* **[Visual Studio 2015]** (https://www.visualstudio.com/post-download-vs/?sku=community&clcid=0x409&downloadrename=true) 
 ```
 
 ### Installing
@@ -22,7 +22,6 @@ A brief overview of running BeepApp:
 2. Under **File** tab, choose **Open Project**.
 3. Navigate to BeepApp's folder.
 4. Choose the solution. (it's extension is .sln)
-5. Press F5 to run it.
 ```
 
 ## Running the tests
@@ -38,7 +37,7 @@ Press F5 to run the application.
 
 ## Authors
 
-* **Mike Ondieki** - *[Ondieki]* (https://github.com/mikearchie254/)
+* [**Mike Ondieki**] (https://github.com/mikearchie254/)
 
 
 ## License
