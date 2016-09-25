@@ -1,0 +1,6 @@
+c:\users\mondi\onedrive\documents\visual studio 2015\Projects\BeepApp\BeepApp\bin\Debug\BeepApp.exe.config
+C:\Users\mondi\OneDrive\Documents\Visual Studio 2015\Projects\BeepApp\BeepApp\bin\Debug\BeepApp.exe
+C:\Users\mondi\OneDrive\Documents\Visual Studio 2015\Projects\BeepApp\BeepApp\bin\Debug\BeepApp.pdb
+C:\Users\mondi\OneDrive\Documents\Visual Studio 2015\Projects\BeepApp\BeepApp\obj\Debug\BeepApp.csprojResolveAssemblyReference.cache
+C:\Users\mondi\OneDrive\Documents\Visual Studio 2015\Projects\BeepApp\BeepApp\obj\Debug\BeepApp.exe
+C:\Users\mondi\OneDrive\Documents\Visual Studio 2015\Projects\BeepApp\BeepApp\obj\Debug\BeepApp.pdb
