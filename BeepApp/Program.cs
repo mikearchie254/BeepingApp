@@ -16,12 +16,16 @@ namespace BeepApp
             Console.Write(">>> ");//Input
             string seconds= Console.ReadLine();
             int secs = int.Parse(seconds);
-            for (int i = 0; i < secs; i++)
+            while (secs > 0)
             {
-                Thread.Sleep(1000 * 1);
-                Console.WriteLine(new string('X',i));
+                for (int i = 0; i < secs; i++) //timer count down
+                {
+                    Thread.Sleep(1000 * 1);
+                    Console.WriteLine(new string('X', secs--));
+                }
+                
             }
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++) //number of beeps
             {
                 Console.Beep();
             }
