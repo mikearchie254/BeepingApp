@@ -9,9 +9,19 @@ namespace BeepApp
 {
     class Program
     {
+        static public int nob;
+        static void Prompt()
+            {
+                Console.WriteLine("Number of beeps: ");
+                Console.Write(">>> ");
+                nob = int.Parse(Console.ReadLine());
+                Console.Clear();
+            }
+        
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;   //UI
+            Prompt();
             Console.WriteLine("Beep Countdown (Seconds)?");//Prompt
             Console.Write(">>> ");//Input
             string seconds= Console.ReadLine();
@@ -25,7 +35,7 @@ namespace BeepApp
                 }
                 
             }
-            for (int i = 0; i < 10; i++) //number of beeps
+            for (int i = 0; i < nob; i++) //number of beeps
             {
                 Console.Beep();
             }
